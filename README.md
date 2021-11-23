@@ -2,7 +2,7 @@
 Test repository
 
 
-Q1: Using customer dataset, Show Top 5 Business Entity with Bookings
+Q1: Using customer dataset, Show Top 5 most popular Business Entity along with Bookings
 
 Q2: Using customer dataset, show top 5 Business Entity (sorted by descending bookings) bought by each customer seperated by comma. For ex: Customer X --> Prod1, Prod2, Prod3
 
